@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
 
 class Translation(object):
     
@@ -12,18 +11,7 @@ Our channel https://t.me/filmspoter
 
 For More Details contact @Hacker_A10
 
-</i>"""    
-    
-    HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
 
-<i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
-</i>
-
-
-            
 @Hacker_A10
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
